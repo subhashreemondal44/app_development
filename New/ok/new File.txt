@@ -1,1 +1,1 @@
-This is a testing file
+stringValue=1231231
